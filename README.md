@@ -20,15 +20,17 @@ All targets are syndications of a single Colossal Cave review dated 2023-01-20.
 | dhq.digitalhumanities.org/vol/001/2/000009.html | "Resource not found" (stale path, article live elsewhere) |
 
 Control, same session, same device: advdat.77-03-11 (Crowther original data file, dated 1977-03-11) retrieved and rendered without error.
+
 Notes:
+
 - The DHQ failure is a URL-scheme change, not a takedown. The article is live at
-  dhq.digitalhumanities.org/vol/1/2/000009/000009.html and as a static PDF at
-  dhq-static.digitalhumanities.org/pdf/000009.pdf. The stale path is the one
+dhq.digitalhumanities.org/vol/1/2/000009/000009.html and as a static PDF at
+dhq-static.digitalhumanities.org/pdf/000009.pdf. The stale path is the one
 published in the author's own citation on his own site.
 - The Bitdefender result is that vendor's classification, not an independent
 determination that the site is malicious. Recorded as observed, no inference drawn.
 - The Internet Archive 429 is a rate limit, not a loss. Recorded because it means the
-  fallback was unavailable at time of check.
+fallback was unavailable at time of check.
 - DNS and registration states are volatile. This table records one moment only.
 
 Tier A: directly observed and screenshotted at the stated time.
